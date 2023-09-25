@@ -75,7 +75,7 @@ body {
 }
 
 .company .container {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .btn {
@@ -169,6 +169,10 @@ button {
     color: black;
     border-radius: 5px;
     font-weight: 500;
+}
+
+.reviews .container{
+    margin-top: 50px;
 }
 
 .review-text {
